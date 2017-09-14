@@ -1,6 +1,7 @@
-# quality-and-index-hopping-sclaridg
+# BI622: Index Hopping
 
-*Sally Claridge*
+**Sally Claridge**
+
 *Due 13 September 2017*
 
 Here is a brief description of what is in all of the files I have added to this repository:
